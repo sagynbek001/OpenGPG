@@ -4,7 +4,9 @@ Public Key for OpenGPG communication.
 ## Public Key
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 Version: Mailvelope v4.7.1
+
 Comment: https://www.mailvelope.com
 
 xsFNBGPzF5oBEACu09DqeSHBjdn9vqHUUnwoKEoDwNHCdLvjikD0R0N42nTk
